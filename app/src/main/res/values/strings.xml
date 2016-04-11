@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Prime Number Identifier</string>
+    <string name="enter_number">Enter Number</string>
+    <string name="check">Check</string>
+    <string name="is_prime">" is a prime number"</string>
+    <string name="is_not_a_prime">" is not a Prime number"</string>
+</resources>
